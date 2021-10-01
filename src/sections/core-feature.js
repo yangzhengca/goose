@@ -7,9 +7,12 @@ import shapePattern from 'assets/shape-pattern2.png';
 
 const data = {
   subTitle: 'Core features',
-  title: 'Choose best practice technology stack for development',
+  title: 
+    // 'Choose best practice technology stack for development',
+    'Focus on small businesses and self-employed professionals',
   description:
-    'Implement best practices to ensure that your website is responsive on screens of any size, responds quickly to user operations, and SEO friendly.',
+    // 'Implement best practices to ensure that your website is responsive on screens of any size, responds quickly to user operations, and SEO friendly.',
+    'We are committed to helping small businesses and self-employed professionals build their professional and affordable websites to help them promote their business and expand their impact. ',
   btnName: 'Get a quote',
   btnURL: '/contact',
 };

@@ -16,8 +16,12 @@ export default function Banner() {
           </Heading>
           <Text as="p" variant="heroSecondary">
             {/* <b>Codeify</b> means to transform ideas into codes.  */}
-            We provide websites and more! If you need a website for your business, this is
-            the place to go. Check out our website to find great software
+           
+            
+
+            We provide websites and more! If you need a website for your small businesses or self-employed business, this is the place to go. 
+
+            Check out our website to find great software
             products and deals!
           </Text>
 
