@@ -8,7 +8,7 @@ const packages = {
         name: 'Basic',
         description: 'For Small Teams or Office',
         buttonText: 'Start free trail',
-        priceWithUnit: '$999',
+        priceWithUnit: 'Limited Special $499',
         points: [
           {
             id: 1,
@@ -40,7 +40,7 @@ const packages = {
         id: 2,
         name: 'Standard',
         description: 'For Enterprise Business',
-        priceWithUnit: 'Start from $2999',
+        priceWithUnit: 'Start from $999',
         buttonText: 'Create account',
         anotherOption: 'Or Start 14 Days trail',
         points: [
@@ -76,7 +76,7 @@ const packages = {
         headerIcon: <IoIosCheckmarkCircle />,
         name: 'Premium',
         description: 'For Pro Business Customer',
-        priceWithUnit: 'Start from $3999',
+        priceWithUnit: 'Start from $1999',
         buttonText: 'Create account',
         anotherOption: 'Or Start 14 Days trail',
         points: [
@@ -151,6 +151,48 @@ const packages = {
         id: 2,
         name: 'Standard Service',
         description: 'For Enterprise Business',
+        priceWithUnit: '$799 /month',
+        buttonText: 'Create account',
+        // anotherOption: 'Or Start 10 Days trail',
+        points: [
+          {
+            id: 1,
+            icon: <IoIosCheckmarkCircle />,
+            text: "Website Consultation",
+            isAvailable: true,
+          },
+          {
+            id: 2,
+            icon: <IoIosCheckmarkCircle />,
+            text: 'Website Solutions',
+            isAvailable: true,
+          },
+          {
+            id: 3,
+            icon: <IoIosCheckmarkCircle />,
+            text: 'Website Maintenance',
+            isAvailable: true,
+          },
+          {
+            id: 4,
+            icon: <IoIosCheckmarkCircle />,
+            text: 'Maximum 10 hours',
+            isAvailable: true,
+          },
+          {
+            id: 5,
+            icon: <IoIosCheckmarkCircle />,
+            text: '7d x 12h Response',
+            isAvailable: true,
+          },
+        ],
+      },
+      {
+        id: 3,
+        header: 'Suggested',
+        headerIcon: <IoIosCheckmarkCircle />,
+        name: 'Premium Service',
+        description: 'For Pro Business Customer',
         priceWithUnit: '$999 /month',
         buttonText: 'Create account',
         // anotherOption: 'Or Start 10 Days trail',
@@ -176,49 +218,7 @@ const packages = {
           {
             id: 4,
             icon: <IoIosCheckmarkCircle />,
-            text: 'Maximum 20 hours',
-            isAvailable: true,
-          },
-          {
-            id: 5,
-            icon: <IoIosCheckmarkCircle />,
-            text: '7d x 12h Response',
-            isAvailable: true,
-          },
-        ],
-      },
-      {
-        id: 3,
-        header: 'Suggested',
-        headerIcon: <IoIosCheckmarkCircle />,
-        name: 'Premium Service',
-        description: 'For Pro Business Customer',
-        priceWithUnit: '$1999 /month',
-        buttonText: 'Create account',
-        // anotherOption: 'Or Start 10 Days trail',
-        points: [
-          {
-            id: 1,
-            icon: <IoIosCheckmarkCircle />,
-            text: "Website Consultation",
-            isAvailable: true,
-          },
-          {
-            id: 2,
-            icon: <IoIosCheckmarkCircle />,
-            text: 'Website Solutions',
-            isAvailable: true,
-          },
-          {
-            id: 3,
-            icon: <IoIosCheckmarkCircle />,
-            text: 'Website Maintenance',
-            isAvailable: true,
-          },
-          {
-            id: 4,
-            icon: <IoIosCheckmarkCircle />,
-            text: 'Maximum 50 hours',
+            text: 'Maximum 15 hours',
             isAvailable: true,
           },
           {
