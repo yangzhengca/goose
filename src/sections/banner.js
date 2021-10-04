@@ -19,7 +19,7 @@ export default function Banner() {
            
             
 
-            We provide websites and more! If you need a website for your small business or self-employed business, this is the place to go. 
+            We provide websites and more! If you need a website for your <b>small business</b> or <b>self-employed business</b>, this is the place to go. 
 
             Check out our website to find great software
             products and deals!
