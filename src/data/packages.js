@@ -53,7 +53,7 @@ const packages = {
           {
             id: 2,
             icon: <IoIosCheckmarkCircle />,
-            text: "Up to 5 pages",
+            text: "Up to 5 Pages",
             isAvailable: true,
           },
           {
