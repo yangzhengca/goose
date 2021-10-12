@@ -16,7 +16,7 @@ const data = [
     altText: "Fast Development",
     title: "Fast Development",
     text:
-      "A company landing page website takes less than two weeks from development to deployment.",
+      "A company landing page website takes less than one week from development to deployment.",
   },
   {
     id: 2,

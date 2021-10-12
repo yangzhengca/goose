@@ -19,7 +19,7 @@ const packages = {
           {
             id: 2,
             icon: <IoIosCheckmarkCircle />,
-            text: "Landing Page & Portfolio",
+            text: "Single Page Website",
             isAvailable: true,
           },
           {
@@ -40,7 +40,7 @@ const packages = {
         id: 2,
         name: 'Standard',
         description: 'For Enterprise Business',
-        priceWithUnit: 'Start from $999',
+        priceWithUnit: 'Start from $1499',
         buttonText: 'Create account',
         anotherOption: 'Or Start 14 Days trail',
         points: [
@@ -53,7 +53,7 @@ const packages = {
           {
             id: 2,
             icon: <IoIosCheckmarkCircle />,
-            text: "Landing Page & Portfolio",
+            text: "Up to 5 pages",
             isAvailable: true,
           },
           {
@@ -89,7 +89,7 @@ const packages = {
           {
             id: 2,
             icon: <IoIosCheckmarkCircle />,
-            text: "Landing Page & Portfolio",
+            text: "Unlimited Pages",
             isAvailable: true,
           },
           {
