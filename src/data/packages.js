@@ -13,19 +13,19 @@ const packages = {
           {
             id: 1,
             icon: <IoIosCheckmarkCircle />,
-            text: 'Landing Page & Portfolio',
+            text: 'Design Template',
             isAvailable: true,
           },
           {
             id: 2,
             icon: <IoIosCheckmarkCircle />,
-            text: "Website Solutions",
+            text: "Landing Page & Portfolio",
             isAvailable: true,
           },
           {
             id: 3,
             icon: <IoIosCheckmarkCircle />,
-            text: 'Website Deployment',
+            text: 'Hosting & Domain',
             isAvailable: true,
           },
           {
@@ -47,19 +47,19 @@ const packages = {
           {
             id: 1,
             icon: <IoIosCheckmarkCircle />,
-            text: 'Landing Page & Portfolio',
+            text: 'Custom Design',
             isAvailable: true,
           },
           {
             id: 2,
             icon: <IoIosCheckmarkCircle />,
-            text: "Website Solutions",
+            text: "Landing Page & Portfolio",
             isAvailable: true,
           },
           {
             id: 3,
             icon: <IoIosCheckmarkCircle />,
-            text: 'Website Deployment',
+            text: 'Hosting & Domain',
             isAvailable: true,
           },
           {
@@ -83,19 +83,19 @@ const packages = {
           {
             id: 1,
             icon: <IoIosCheckmarkCircle />,
-            text: 'Landing Page & Portfolio',
+            text: 'Custom Design',
             isAvailable: true,
           },
           {
             id: 2,
             icon: <IoIosCheckmarkCircle />,
-            text: "Website Solutions",
+            text: "Landing Page & Portfolio",
             isAvailable: true,
           },
           {
             id: 3,
             icon: <IoIosCheckmarkCircle />,
-            text: 'Website Deployment',
+            text: 'Hosting & Domain',
             isAvailable: true,
           },
           {
@@ -113,7 +113,7 @@ const packages = {
         name: 'Basic Service',
         description: 'For Small Teams or Office',
         buttonText: 'Start free trail',
-        priceWithUnit: '$499 /time',
+        priceWithUnit: '$350 /month',
         points: [
           {
             id: 1,
@@ -129,7 +129,7 @@ const packages = {
           },
           {
             id: 3,
-            icon: <IoIosCloseCircle />,
+            icon: <IoIosCheckmarkCircle />,
             text: 'Website Maintenance',
             isAvailable: false,
           },
@@ -151,7 +151,7 @@ const packages = {
         id: 2,
         name: 'Standard Service',
         description: 'For Enterprise Business',
-        priceWithUnit: '$799 /month',
+        priceWithUnit: '$650 /month',
         buttonText: 'Create account',
         // anotherOption: 'Or Start 10 Days trail',
         points: [
@@ -193,7 +193,7 @@ const packages = {
         headerIcon: <IoIosCheckmarkCircle />,
         name: 'Premium Service',
         description: 'For Pro Business Customer',
-        priceWithUnit: '$999 /month',
+        priceWithUnit: '$950 /month',
         buttonText: 'Create account',
         // anotherOption: 'Or Start 10 Days trail',
         points: [
